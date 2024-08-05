@@ -27,14 +27,48 @@ h1{
     text-align: center;
 }
 
-div .quiz-box-1{
-    border-style: none;
+.quiz-box-1{
+    color: white;
+    border-style: solid;
+    border-color: white;
     width: 500px; 
+}
+
+section, h2 .question{
+    color: white;
+    background: #b7b8b86c;
+    width: 500px;
+    border: none;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.answer-options .option{
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+    border: none;
+
+}
+   
+   .submit-btn {
+    margin-top: 10px;
+    background-color: rgb(65, 228, 65);
+    color: white;
+    border: none;
+   }
+    
+   
+    
+    
+
 }
 
 .quiz-box-1 .timer {
     font-weight: bold;
     text-align: right;
+    color: white;
 }
 
 .timer .danger{
