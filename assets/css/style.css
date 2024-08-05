@@ -62,7 +62,9 @@ section, h2 .question{
     cursor: pointer;
    }
     
-   
+    .option:hover{
+    background: rgb(255, 192, 247);
+   }
 
 .quiz-box .timer {
     font-weight: bold;
