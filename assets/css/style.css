@@ -27,3 +27,16 @@ h1{
     text-align: center;
 }
 
+div .quiz-box-1{
+    border-style: none;
+    width: 500px; 
+}
+
+.quiz-box-1 .timer {
+    font-weight: bold;
+    text-align: right;
+}
+
+.timer .danger{
+    color: red;
+}
