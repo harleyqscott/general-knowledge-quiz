@@ -27,7 +27,7 @@ h1{
     text-align: center;
 }
 
-.quiz-box-1{
+.quiz-box{
     color: white;
     border-style: solid;
     border-color: white;
@@ -60,12 +60,8 @@ section, h2 .question{
    }
     
    
-    
-    
 
-}
-
-.quiz-box-1 .timer {
+.quiz-box .timer {
     font-weight: bold;
     text-align: right;
     color: white;
