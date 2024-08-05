@@ -50,6 +50,7 @@ section, h2 .question{
     margin: 10px;
     background-color: white;
     border: none;
+    cursor: pointer;
 
 }
    
@@ -58,6 +59,7 @@ section, h2 .question{
     background-color: rgb(65, 228, 65);
     color: white;
     border: none;
+    cursor: pointer;
    }
     
    
