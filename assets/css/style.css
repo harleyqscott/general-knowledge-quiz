@@ -31,14 +31,14 @@ h1{
     color: white;
     border-style: solid;
     border-color: white;
-    width: 500px; 
+    width: 600px; 
     margin: 15px;
 }
 
 section, h2 .question{
     color: white;
     background: #b7b8b86c;
-    width: 500px;
+    width: 600px;
     border: none;
     padding: 10px;
     margin: 0 auto;
@@ -71,4 +71,9 @@ section, h2 .question{
 
 .timer .danger{
     color: red;
+}
+
+header{
+    display:flex;
+    position: right;
 }
